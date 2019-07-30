@@ -215,11 +215,3 @@ name="location" value="classpath:META-INF/res/resource-${profiles.active}.proper
 ```
 
 **注意：请根据项目实际情况修改对应的包路径和工程配置文件名称等信息。**
-
-
-
-**附件下载方式如下：**
-
-**链接：https://pan.baidu.com/s/1EEGyQFGld81bzfoNsr_Hpw** 
-
-**提取码：drid ** 
